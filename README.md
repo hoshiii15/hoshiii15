@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Hosea! 👋 
+> "Ingin menjadi progremer hamdal, namun enggan ngodeng."
 
-<!--
-**hoshiii15/hoshiii15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hosea%20Rakan&fontSize=70" />
+</p>
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,docker,linux,arch,raspberrypi,windows,cloudflare&perline=9" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoshiii15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshiii15&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoshiii15&theme=tokyonight" />
+</p>
