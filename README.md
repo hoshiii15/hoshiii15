@@ -3,9 +3,23 @@
   <i>"Ingin menjadi progremer hamdal, namun enggan ngodeng."</i>
 </p>
 
+<h3 align="center">🚀 Our Top Clients (Powered by Rakahomelab)</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khalby786/REMDATA/master/stats.svg" width="100%" />
+  <a href="https://jackjali.rakahomelab.my.id/">
+    <img src="https://jackjali.rakahomelab.my.id/img/hero.png" height="60" alt="Jack Jali Komputer" style="margin: 10px;" />
+  </a>
+  <a href="https://griyapradita.rakahomelab.my.id/">
+    <img src="https://griyapradita.rakahomelab.my.id/assets/img/favicon/icon.png" height="60" alt="Griya Pradita" style="margin: 10px;" />
+  </a>
+  <a href="https://sasamebiliard.rakahomelab.my.id/">
+    <img src="https://sasamebiliard.rakahomelab.my.id/assets/logobaru-wpLpbITI.png" height="60" alt="Sasame Biliard" style="margin: 10px;" />
+  </a>
 </p>
+<p align="center">
+  <b>...and many other classified clients we can't mention (Government secrets, Wir! 🤫)</b>
+</p>
+
+<hr />
 
 ### 🛠 Tech Stack & Tools
 <p align="left">
@@ -16,10 +30,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoshiii15&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshiii15&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoshiii15&theme=tokyonight&hide_border=true" />
 </p>
 
 <hr />
