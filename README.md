@@ -3,7 +3,7 @@
   <i>"Ingin menjadi progremer hamdal, namun enggan ngodeng."</i>
 </p>
 
-<h3 align="center">Rakahomelab Cients</h3>
+<h3 align="center">Rakahomelab Clients</h3>
 <p align="center">
   <a href="https://jackjali.rakahomelab.my.id/">
     <img src="https://jackjali.rakahomelab.my.id/img/hero.png" height="60" alt="Jack Jali Komputer" style="margin: 10px;" />
