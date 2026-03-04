@@ -21,17 +21,12 @@
 
 <hr />
 
-### Tech Stack & Tools
+<h3 align="center">Tech Stack & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,docker,linux,arch,raspberrypi,windows,cloudflare&perline=9" />
 </p>
 
 <h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoshiii15&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Hosea's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshiii15&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Hosea's Languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoshiii15&theme=tokyonight&hide_border=true" alt="Hosea's Streak" />
 </p>
