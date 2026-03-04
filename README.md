@@ -23,7 +23,7 @@
 
 <h3 align="center">Tech Stack & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,docker,linux,arch,raspberrypi,windows,cloudflare&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,docker,linux,arch,raspberrypi,nginx,cloudflare&perline=9" />
 </p>
 
 <h3 align="center">GitHub Stats</h3>
