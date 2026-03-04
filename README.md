@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Hosea! 👋</h1>
+<h1 align="center">Hi there, I'm Raka!</h1>
 <p align="center">
   <i>"Ingin menjadi progremer hamdal, namun enggan ngodeng."</i>
 </p>
 
-<h3 align="center">🚀 Our Top Clients (Powered by Rakahomelab)</h3>
+<h3 align="center">Our Clients (Powered by Rakahomelab)</h3>
 <p align="center">
   <a href="https://jackjali.rakahomelab.my.id/">
     <img src="https://jackjali.rakahomelab.my.id/img/hero.png" height="60" alt="Jack Jali Komputer" style="margin: 10px;" />
@@ -16,17 +16,17 @@
   </a>
 </p>
 <p align="center">
-  <b>...and many other classified clients we can't mention (Government secrets, Wir! 🤫)</b>
+  <b>and many other classified clients we can't mention (Government secrets, Wir!)</b>
 </p>
 
 <hr />
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,docker,linux,arch,raspberrypi,windows,cloudflare&perline=9" />
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoshiii15&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshiii15&layout=compact&theme=tokyonight&hide_border=true" height="170" />
