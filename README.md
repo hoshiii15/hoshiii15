@@ -2,7 +2,7 @@
 > "Ingin menjadi progremer hamdal, namun enggan ngodeng."
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hosea%20Rakan&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Hosea%20Rakan&fontSize=70" />
 </p>
 
 ### 🛠 Tech Stack & Tools
@@ -12,13 +12,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoshiii15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshiii15&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoshiii15&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshiii15&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoshiii15&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoshiii15&theme=radical" />
 </p>
 
 <p align="left">
