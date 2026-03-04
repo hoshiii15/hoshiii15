@@ -1,34 +1,20 @@
-# Hi there, I'm Hosea! 👋 
+# Hi there, I'm Hosea! 👋
 > "Ingin menjadi progremer hamdal, namun enggan ngodeng."
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Hosea%20Rakan&fontSize=70" />
-</p>
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hosea%20Rakan&fontSize=70)
 
 ### 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,docker,linux,arch,raspberrypi,windows,cloudflare&perline=9" />
-</p>
+![Skills](https://skillicons.dev/icons?i=js,nodejs,python,docker,linux,arch,raspberrypi,windows,cloudflare&perline=9)
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoshiii15&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshiii15&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=hoshiii15&show_icons=true&theme=tokyonight)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshiii15&layout=compact&theme=tokyonight)
 
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoshiii15&theme=radical" />
-</p>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoshiii15&theme=tokyonight)
 
-<p align="left">
-  <a href="https://rakahomelab.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-  <a href="mailto:hosearakan1226@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/hosearaka" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rakahomelab.my.id)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hosearakan1226@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hosearaka)
