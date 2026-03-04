@@ -22,7 +22,7 @@
 <hr />
 
 ### Tech Stack & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,docker,linux,arch,raspberrypi,windows,cloudflare&perline=9" />
 </p>
 
@@ -34,7 +34,7 @@
 
 <hr />
 
-<p align="left">
+<p align="center">
   <a href="https://rakahomelab.my.id"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
   <a href="mailto:hosearakan1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/hosearaka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
