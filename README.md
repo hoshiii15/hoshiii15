@@ -50,9 +50,3 @@
   <a href="mailto:hosearakan1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/hosearaka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MONITORING-UPTIME_KUMA-64E191?style=for-the-badge&logo=uptimekuma&logoColor=white" />
-  <img src="https://uptime.rakahomelab.my.id/api/badge/2/status?style=for-the-badge" />
-</p>
