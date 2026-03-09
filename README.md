@@ -24,7 +24,8 @@
 <h3 align="center">Tech Stack & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,docker,linux,arch,raspberrypi,nginx,cloudflare&perline=9" />
-</p>
+</p>![Duplicati](https://img.shields.io/badge/Duplicati-00AEEF?style=for-the-badge&logo=duplicati&logoColor=white)
+
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
