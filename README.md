@@ -23,7 +23,7 @@
 
 <h3 align="center">Tech Stack & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,docker,kubernetes,linux,arch,raspberrypi,nginx,cloudflare,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,docker,arch,raspberrypi,nginx,cloudflare,grafana,prometheus" />
 </p>
 
 <p align="center">
