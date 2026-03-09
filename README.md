@@ -53,7 +53,6 @@
 
 
 <p align="center">
-  <a href="https://status.rakahomelab.my.id">
-    <img src="https://uptime.rakahomelab.my.id/api/badge/1/status?style=for-the-badge" alt="Server Status" />
-  </a>
+  <img src="https://img.shields.io/badge/MONITORING-UPTIME_KUMA-64E191?style=for-the-badge&logo=uptimekuma&logoColor=white" />
+  <img src="https://uptime.rakahomelab.my.id/api/badge/2/status?style=for-the-badge" />
 </p>
