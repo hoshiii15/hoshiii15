@@ -23,8 +23,9 @@
 
 <h3 align="center">Tech Stack & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,docker,linux,arch,raspberrypi,nginx,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,docker,kubernetes,arch,raspberrypi,nginx,cloudflare,tailscale" />
   <br />
+  <img src="https://img.shields.io/badge/Security-UFW-orange?style=for-the-badge&logo=linux&logoColor=white" style="margin-top: 10px;" />
   <img src="https://img.shields.io/badge/Backup_System-Duplicati-00AEEF?style=for-the-badge&logo=duplicati&logoColor=white" style="margin-top: 10px;" />
 </p>
 
