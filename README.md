@@ -23,10 +23,10 @@
 
 <h3 align="center">Tech Stack & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,docker,linux,arch,raspberrypi,nginx,cloudflare&perline=9" />![Duplicati](https://img.shields.io/badge/Duplicati-00AEEF?style=for-the-badge&logo=duplicati&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,docker,linux,arch,raspberrypi,nginx,cloudflare" />
+  <br />
+  <img src="https://img.shields.io/badge/Backup_System-Duplicati-00AEEF?style=for-the-badge&logo=duplicati&logoColor=white" style="margin-top: 10px;" />
 </p>
-
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
