@@ -8,22 +8,28 @@ on:
 jobs:
   screenshot:
     runs-on: ubuntu-latest
-    permissions:         # Iki WAJIB ON ben isoh nge-push
+    permissions:
       contents: write
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Take Screenshot
-        uses: microlinkhq/screenshot-action@v1.1.0
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          # URL mbok ganti 'uptime' (ra nganggo kuma) mergo neng browser-mu rutené kuwi, bolo!
-          url: https://uptimekuma.rakahomelab.my.id/status/server 
-          width: 1280
-          height: 720
-          type: png
-          overlay: false
-          filename: status_screenshot.png
+          python-version: "3.11"
+
+      - name: Install shot-scraper
+        run: |
+          pip install shot-scraper
+          shot-scraper install
+
+      - name: Take Screenshot
+        run: |
+          # URL mbok ganti 'uptimekuma' sesuai screenshot browser-mu yo!
+          shot-scraper https://uptimekuma.rakahomelab.my.id/status/server \
+            -o status_screenshot.png \
+            --width 1280 --height 720 --wait 5000
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
