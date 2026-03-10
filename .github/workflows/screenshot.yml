@@ -1,0 +1,27 @@
+name: Update Rakahomelab Status Screenshot
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Mlaku otomatis saben 1 jam
+  workflow_dispatch:     # Ben isoh mbok klik manual "Run" neng tab Actions
+
+jobs:
+  screenshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Take Screenshot
+        uses: swinton/screenshot-action@v2.1.0
+        with:
+          url: https://uptimekuma.rakahomelab.my.id/status/server  # URL status page-mu
+          width: 1280
+          height: 720
+          output: status_screenshot.png         # Jeneng file gambare
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update server status heartbeat"
+          file_pattern: 'status_screenshot.png'
