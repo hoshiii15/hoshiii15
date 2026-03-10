@@ -40,13 +40,6 @@
 
 <hr />
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoshiii15&theme=tokyonight&hide_border=true" alt="Hosea's Streak" />
-</p>
-
-<hr />
-
 <h3 align="center">Rakahomelab Server Real-time Status</h3>
 <p align="center">
   <a href="https://uptimekuma.rakahomelab.my.id/status/server">
