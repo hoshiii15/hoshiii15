@@ -53,7 +53,7 @@
 
 ### Rakahomelab Real-time Status
 <p align="center">
-  <a href="https://status.rakahomelab.my.id">
+  <a href="https://uptimekuma.rakahomelab.my.id/status/server">
     <img src="status_screenshot.png" alt="Rakahomelab Status" width="800" />
   </a>
 </p>
