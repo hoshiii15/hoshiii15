@@ -40,6 +40,10 @@
 
 <hr />
 
+[![Hosea's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshiii15&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr />
+
 <h3 align="center">Rakahomelab Server Real-time Status</h3>
 <p align="center">
   <a href="https://uptimekuma.rakahomelab.my.id/status/server">
