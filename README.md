@@ -50,3 +50,11 @@
   <a href="mailto:hosearakan1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/hosearaka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+### Rakahomelab Real-time Status
+<p align="center">
+  <a href="https://status.rakahomelab.my.id">
+    <img src="status_screenshot.png" alt="Rakahomelab Status" width="800" />
+  </a>
+</p>
+<p align="center"><i>Last updated automatically by GitHub Actions. Click image for details.</i></p>
