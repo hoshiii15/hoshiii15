@@ -40,7 +40,10 @@
 
 <hr />
 
-[![Hosea's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hoshiii15&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshiii15&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoshiii15&show_icons=true&theme=radical" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hoshiii15&layout=compact&theme=radical" height="175" />
+</p>
 
 <hr />
 
