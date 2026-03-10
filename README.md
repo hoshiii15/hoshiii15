@@ -38,12 +38,22 @@
   <img src="https://img.shields.io/badge/BACKUP-DUPLICATI-00AEEF?style=for-the-badge&logo=duplicati&logoColor=white" />
 </p>
 
+<hr />
+
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoshiii15&theme=tokyonight&hide_border=true" alt="Hosea's Streak" />
 </p>
 
 <hr />
+
+<h3 align="center">Rakahomelab Server Real-time Status</h3>
+<p align="center">
+  <a href="https://uptimekuma.rakahomelab.my.id/status/server">
+    <img src="status_screenshot.png" alt="Rakahomelab Status" width="800" />
+  </a>
+</p>
+<p align="center"><i>updated automatically by GitHub Actions. Click image for details.</i></p>
 
 <p align="center">
   <a href="https://wa.me/6285747887662"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -52,11 +62,3 @@
 </p>
 
 <hr />
-
-<h3 align="center">Rakahomelab Real-time Status</h3>
-<p align="center">
-  <a href="https://uptimekuma.rakahomelab.my.id/status/server">
-    <img src="status_screenshot.png" alt="Rakahomelab Status" width="800" />
-  </a>
-</p>
-<p align="center"><i>Last updated automatically by GitHub Actions. Click image for details.</i></p>
