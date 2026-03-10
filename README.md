@@ -41,8 +41,9 @@
 <hr />
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoshiii15&show_icons=true&theme=radical" height="175" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hoshiii15&layout=compact&theme=radical" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoshiii15&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hoshiii15&layout=compact&theme=radical" height="170" />
 </p>
 
 <hr />
