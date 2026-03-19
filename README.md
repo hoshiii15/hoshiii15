@@ -11,8 +11,8 @@
   <a href="https://griyapradita.rakahomelab.my.id/">
     <img src="https://griyapradita.rakahomelab.my.id/assets/img/favicon/icon.png" height="60" alt="Griya Pradita" style="margin: 10px;" />
   </a>
-  <a href="https://sasamebiliard.com/">
-    <img src="https://sasamebiliard.com/assets/logobaru-wpLpbITI.png" height="60" alt="Sasame Biliard" style="margin: 10px;" />
+  <a href="https://sasamebilliard.com/">
+    <img src="https://sasamebilliard.com/assets/logobaru-wpLpbITI.png" height="60" alt="Sasame Biliard" style="margin: 10px;" />
   </a>
 </p>
 <p align="center">
