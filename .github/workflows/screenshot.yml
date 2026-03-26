@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          # Penting banget iki Hos ben ra error push-e
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,13 +29,14 @@ jobs:
 
       - name: Take Screenshot
         run: |
-          # URL mbok ganti 'uptimekuma' sesuai screenshot browser-mu yo!
           shot-scraper https://uptimekuma.rakahomelab.my.id/status/server \
             -o status_screenshot.png \
-            --width 1280 --height 720 --wait 5000
+            --width 1280 --height 720 --wait 10000
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update server status heartbeat screenshot 📸"
           file_pattern: 'status_screenshot.png'
+          # Force push dadi pilihan terakhir nek pancen isih mbalel
+          push_options: '--force' 
