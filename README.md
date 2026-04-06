@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SECURITY-UFW-E95420?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/NETWORK-TAILSCALE-496495?style=for-the-badge&logo=tailscale&logoColor=white" />
-  <img src="https://img.shields.io/badge/ORCHESTRATION-K3s-FFC107?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/ORCHESTRATION-docker-FFC107?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <p align="center">
