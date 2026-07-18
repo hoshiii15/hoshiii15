@@ -40,16 +40,6 @@
 
 <hr />
 
-<h3 align="center">Rakahomelab Server Real-time Status</h3>
-<p align="center">
-  <a href="https://uptimekuma.rakahomelab.my.id/status/server">
-    <img src="status_screenshot.png" alt="Rakahomelab Status" width="800" />
-  </a>
-</p>
-<p align="center"><i>updated automatically by GitHub Actions. Click image for details.</i></p>
-
-<hr />
-
 <p align="center">
   <a href="https://wa.me/6285747887662"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:hosearakan1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
